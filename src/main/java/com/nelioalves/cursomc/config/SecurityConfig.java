@@ -23,9 +23,16 @@ import com.nelioalves.cursomc.security.JWTAuthenticationFilter;
 import com.nelioalves.cursomc.security.JWTAuthorizationFilter;
 import com.nelioalves.cursomc.security.JWTUtil;
 
+import br.com.uol.pagseguro.api.PagSeguro;
+import br.com.uol.pagseguro.api.PagSeguroEnv;
+import br.com.uol.pagseguro.api.credential.Credential;
+import br.com.uol.pagseguro.api.http.JSEHttpClient;
+import br.com.uol.pagseguro.api.utils.logging.SimpleLoggerFactory;
+
 @Configuration
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(prePostEnabled = true)
+
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 	@Autowired
@@ -50,14 +57,16 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 	private static final String[] PUBLIC_MATCHERS_POST = {
 			"/clientes/**",
-			"/checkout-pag-seguro/**",
-			"/auth/forgot/**"
+			"/checkout/**",
+			"/auth/forgot/**",
+			"/session/**",
+			"/directPayment/**",
 	};
 
 	@Override
 	protected void configure(HttpSecurity http) throws Exception {
 		
-		if (Arrays.asList(env.getActiveProfiles()).contains("test")) {
+		if (Arrays.asList(env.getActiveProfiles()).contains("dev")) { //estava test
             http.headers().frameOptions().disable();
         }
 		
@@ -80,7 +89,10 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 	@Bean
 	CorsConfigurationSource corsConfigurationSource() {
 		CorsConfiguration configuration = new CorsConfiguration().applyPermitDefaultValues();
-		configuration.setAllowedMethods(Arrays.asList("POST", "GET", "PUT", "DELETE", "OPTIONS"));
+		configuration.setAllowedOrigins(Arrays.asList("*"));
+		configuration.setAllowedHeaders(Arrays.asList("application/xml"));
+		configuration.setAllowedHeaders(Arrays.asList("authorization","Origin","X-Requested-With","content-type","Accept", "x-auth-token"));
+		configuration.setAllowedMethods(Arrays.asList("POST", "GET", "PUT", "DELETE", "OPTIONS","HEAD", "TRACE", "CONNECT"));
 		final UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
 		source.registerCorsConfiguration("/**", configuration);
 		return source;
@@ -90,4 +102,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 	public BCryptPasswordEncoder bCryptPasswordEncoder() {
 		return new BCryptPasswordEncoder();
 	}
+	
+	
+	
 }
