@@ -1,4 +1,4 @@
-package com.nelioalves.cursomc.domain;
+package com.nelioalves.cursomc.components;
 
 public class Phone
 {

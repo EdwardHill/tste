@@ -14,9 +14,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.nelioalves.cursomc.components.CheckoutGenerico;
 import com.nelioalves.cursomc.domain.Cliente;
 import com.nelioalves.cursomc.domain.Endereco;
-import com.nelioalves.cursomc.dto.BoletoDTO;
 import com.nelioalves.cursomc.dto.PaymentDTO;
 import com.nelioalves.cursomc.repositories.ClienteRepository;
 import com.nelioalves.cursomc.repositories.EnderecoRepository;
@@ -66,7 +66,7 @@ public class CheckoutPagSeguroResource {
 		Item item = new Item();
 
 		logger.info("line - 1: " + obj);
-		BoletoDTO dadosPayment =this.gson.fromJson(obj, BoletoDTO.class);
+		CheckoutGenerico dadosPayment =this.gson.fromJson(obj, CheckoutGenerico.class);
 		logger.info("line - 2 " + dadosPayment);
 
 		//CreditCardCheckout request = new CreditCardCheckout();

@@ -1,13 +1,6 @@
-package com.nelioalves.cursomc.dto;
+package com.nelioalves.cursomc.components;
 
-import com.nelioalves.cursomc.domain.Billing;
-import com.nelioalves.cursomc.domain.Items;
-import com.nelioalves.cursomc.domain.Sender;
-import com.nelioalves.cursomc.domain.Shipping;
-
-
-
-public class BoletoDTO
+public class CheckoutGenerico
 {
     private String reference;
 
@@ -20,6 +13,8 @@ public class BoletoDTO
     private Items[] items;
 
     private Billing billing;
+    
+    private CreditCard creditCard;
 
     public String getReference ()
     {
@@ -80,11 +75,22 @@ public class BoletoDTO
     {
         this.billing = billing;
     }
+    
+	public CreditCard getCreditCard() {
+		return creditCard;
+	}
 
-    @Override
-    public String toString()
-    {
-        return "ClassPojo [reference = "+reference+", method = "+method+", shipping = "+shipping+", sender = "+sender+", items = "+items+", billing = "+billing+"]";
-    }
+	public void setCreditCard(CreditCard creditCard) {
+		this.creditCard = creditCard;
+	}
+
+	@Override
+	public String toString() {
+		return "ClassPOJO [reference=" + reference + ", method=" + method + ", shipping=" + shipping + ", sender="
+				+ sender + ", items=" + items + ", billing=" + billing + ", creditCard=" + creditCard
+				+ "]";
+	}
+
+	
 }
 
