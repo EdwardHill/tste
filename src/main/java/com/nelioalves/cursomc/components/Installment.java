@@ -1,12 +1,10 @@
 package com.nelioalves.cursomc.components;
 
-import java.math.BigDecimal;
-
 public class Installment {
 	private Integer quantity;
 	private String installmentAmount;
 	private String totalAmount;
-	private Integer maxInstallmentNoInterest;
+	
 
 	public Integer getQuantity() {
 		return quantity;
@@ -32,14 +30,13 @@ public class Installment {
 		this.totalAmount = totalAmount;
 	}
 
-	public Integer getMaxInstallmentNoInterest() {
-		return maxInstallmentNoInterest;
-	}
-
-	public void setMaxInstallmentNoInterest(Integer maxInstallmentNoInterest) {
-		this.maxInstallmentNoInterest = maxInstallmentNoInterest;
+	@Override
+	public String toString() {
+		return "Installment [quantity=" + quantity + ", installmentAmount=" + installmentAmount + ", totalAmount="
+				+ totalAmount + "]";
 	}
 
 	
 
+	
 }

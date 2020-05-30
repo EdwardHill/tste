@@ -8,6 +8,8 @@ public class CreditCard {
 	private String token;
 	private Holder holder;
 	private Installment installment;
+	private Integer maxInstallmentNoInterest;
+
 	private Address billing;
 
 	public String getToken() {
@@ -34,6 +36,14 @@ public class CreditCard {
 		this.installment = installment;
 	}
 
+	public Integer getMaxInstallmentNoInterest() {
+		return maxInstallmentNoInterest;
+	}
+
+	public void setMaxInstallmentNoInterest(Integer maxInstallmentNoInterest) {
+		this.maxInstallmentNoInterest = maxInstallmentNoInterest;
+	}
+
 	public Address getBilling() {
 		return billing;
 	}
@@ -44,8 +54,10 @@ public class CreditCard {
 
 	@Override
 	public String toString() {
-		return "CreditCard [token=" + token + ", holder=" + holder + ", installments=" + installment + ", billing="
-				+ billing + "]";
+		return "CreditCard [token=" + token + ", holder=" + holder + ", installment=" + installment
+				+ ", maxInstallmentNoInterest=" + maxInstallmentNoInterest + ", billing=" + billing + "]";
 	}
+
+	
 
 }

@@ -1,81 +1,82 @@
 package com.nelioalves.cursomc.components;
 
-public class CheckoutGenerico
-{
-    private String reference;
+import java.util.Arrays;
 
-    private String method;
+public class CheckoutGenerico {
+	private String reference;
 
-    private Shipping shipping;
+	private String method;
 
-    private Sender sender;
+	private Shipping shipping;
 
-    private Items[] items;
+	private String extraAmount;
 
-    private Billing billing;
-    
-    private CreditCard creditCard;
+	private Sender sender;
 
-    public String getReference ()
-    {
-        return reference;
-    }
+	private Items[] items;
 
-    public void setReference (String reference)
-    {
-        this.reference = reference;
-    }
+	private Billing billing;
 
-    public String getMethod ()
-    {
-        return method;
-    }
+	private CreditCard creditCard;
 
-    public void setMethod (String method)
-    {
-        this.method = method;
-    }
+	private Bank bank;
 
-    public Shipping getShipping ()
-    {
-        return shipping;
-    }
+	public String getReference() {
+		return reference;
+	}
 
-    public void setShipping (Shipping shipping)
-    {
-        this.shipping = shipping;
-    }
+	public void setReference(String reference) {
+		this.reference = reference;
+	}
 
-    public Sender getSender ()
-    {
-        return sender;
-    }
+	public String getMethod() {
+		return method;
+	}
 
-    public void setSender (Sender sender)
-    {
-        this.sender = sender;
-    }
+	public void setMethod(String method) {
+		this.method = method;
+	}
 
-    public Items[] getItems ()
-    {
-        return items;
-    }
+	public Shipping getShipping() {
+		return shipping;
+	}
 
-    public void setItems (Items[] items)
-    {
-        this.items = items;
-    }
+	public void setShipping(Shipping shipping) {
+		this.shipping = shipping;
+	}
 
-    public Billing getBilling ()
-    {
-        return billing;
-    }
+	public String getExtraAmount() {
+		return extraAmount;
+	}
 
-    public void setBilling (Billing billing)
-    {
-        this.billing = billing;
-    }
-    
+	public void setExtraAmount(String extraAmount) {
+		this.extraAmount = extraAmount;
+	}
+
+	public Sender getSender() {
+		return sender;
+	}
+
+	public void setSender(Sender sender) {
+		this.sender = sender;
+	}
+
+	public Items[] getItems() {
+		return items;
+	}
+
+	public void setItems(Items[] items) {
+		this.items = items;
+	}
+
+	public Billing getBilling() {
+		return billing;
+	}
+
+	public void setBilling(Billing billing) {
+		this.billing = billing;
+	}
+
 	public CreditCard getCreditCard() {
 		return creditCard;
 	}
@@ -84,13 +85,19 @@ public class CheckoutGenerico
 		this.creditCard = creditCard;
 	}
 
-	@Override
-	public String toString() {
-		return "ClassPOJO [reference=" + reference + ", method=" + method + ", shipping=" + shipping + ", sender="
-				+ sender + ", items=" + items + ", billing=" + billing + ", creditCard=" + creditCard
-				+ "]";
+	public Bank getBank() {
+		return bank;
 	}
 
-	
-}
+	public void setBank(Bank bank) {
+		this.bank = bank;
+	}
 
+	@Override
+	public String toString() {
+		return "CheckoutGenerico [reference=" + reference + ", method=" + method + ", shipping=" + shipping
+				+ ", extraAmount=" + extraAmount + ", sender=" + sender + ", items=" + Arrays.toString(items)
+				+ ", billing=" + billing + ", creditCard=" + creditCard + ", bank=" + bank + "]";
+	}
+
+}
