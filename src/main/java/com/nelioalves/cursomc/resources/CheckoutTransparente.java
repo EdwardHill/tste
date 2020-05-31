@@ -33,11 +33,11 @@ import br.com.uol.pagseguro.api.common.domain.builder.SenderBuilder;
 import br.com.uol.pagseguro.api.common.domain.builder.ShippingBuilder;
 import br.com.uol.pagseguro.api.common.domain.enums.Currency;
 import br.com.uol.pagseguro.api.credential.Credential;
+import br.com.uol.pagseguro.api.exception.PagSeguroBadRequestException;
 import br.com.uol.pagseguro.api.http.JSEHttpClient;
 import br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegistrationBuilder;
 import br.com.uol.pagseguro.api.transaction.search.TransactionDetail;
 import br.com.uol.pagseguro.api.utils.logging.SimpleLoggerFactory;
-import br.com.uol.pagseguro.exception.PagSeguroServiceException;
 
 @RestController
 @RequestMapping(value = "/directPayment")
@@ -46,12 +46,15 @@ public class CheckoutTransparente {
 	private static final Logger logger = Logger.getLogger(CheckoutTransparente.class.getName());
 
 	@RequestMapping(method = RequestMethod.POST, produces = "application/json")
-	public ResponseEntity<String> payment(@Valid @RequestBody String obj) throws Exception , PagSeguroServiceException{
+	public ResponseEntity<String> payment(@Valid @RequestBody String obj) throws Exception{
 
 		TransactionDetail checkout = null;
 		logger.info("line - 1: " + obj);
 		CheckoutGenerico dadosPayment = this.data.fromJson(obj, CheckoutGenerico.class);
 		logger.info("line - 2 " + dadosPayment);
+		
+		
+		
 		
 		switch (dadosPayment.getMethod()) {
 		case "BOLETO":
@@ -175,6 +178,7 @@ public class CheckoutTransparente {
 						Credential.sellerCredential("edurock55@gmail.com", "086022FE2D2547C0847246E4C8C3804B"),
 						PagSeguroEnv.SANDBOX);
 				// Checkout transparente (pagamento direto) com boleto
+				
 				checkout = pagSeguro.transactions()
 						.register(
 								new DirectPaymentRegistrationBuilder().withPaymentMode("default").withCurrency(Currency.BRL)
@@ -203,20 +207,15 @@ public class CheckoutTransparente {
 											.withComplement(dadosPayment.getBilling().getComplement())
 											.withDistrict(dadosPayment.getBilling().getDistrict())
 											.withNumber(dadosPayment.getBilling().getNumber())
-											.withStreet(dadosPayment.getBilling().getStreet())))
-									
-							).withOnlineDebit(new BankBuilder()
-				                    .withName(dadosPayment.getBank().getName().getName())
-					                );
+											.withStreet(dadosPayment.getBilling().getStreet())))									
+									).withOnlineDebit(new BankBuilder().withName(BankName.Name.fromName(dadosPayment.getBank().getName()))
+								);
 				System.out.println(checkout.getPaymentLink());
-			} catch (Exception e) {
+			} catch (PagSeguroBadRequestException e) {
 				e.printStackTrace();
 			}
         	break;
 		}
-		
-
-		
 
 		return ResponseEntity.status(HttpStatus.OK).body("{" + "\"statusCode\"" + " :" + 200 + "," + "\"status\"" + " :"
 				+ "\"success\"" + "," + "\"content\"" + ":" + "" + data.toJson(checkout) + "}");

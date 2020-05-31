@@ -2,6 +2,8 @@ package com.nelioalves.cursomc.components;
 
 import java.util.Arrays;
 
+import br.com.uol.pagseguro.api.common.domain.BankName;
+
 public class CheckoutGenerico {
 	private String reference;
 

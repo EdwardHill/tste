@@ -1,15 +1,13 @@
 package com.nelioalves.cursomc.components;
 
-import br.com.uol.pagseguro.api.common.domain.BankName;
-
 public class Bank {
-	private BankName name;
+	private String name;
 
-	public BankName getName() {
+	public String getName() {
 		return name;
 	}
 
-	public void setName(BankName name) {
+	public void setName(String name) {
 		this.name = name;
 	}
 
