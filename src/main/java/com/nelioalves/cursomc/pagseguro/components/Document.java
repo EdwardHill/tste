@@ -1,4 +1,4 @@
-package com.nelioalves.cursomc.components;
+package com.nelioalves.cursomc.pagseguro.components;
 
 import br.com.uol.pagseguro.api.common.domain.enums.DocumentType;
 

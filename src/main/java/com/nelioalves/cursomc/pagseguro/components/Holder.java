@@ -1,4 +1,4 @@
-package com.nelioalves.cursomc.components;
+package com.nelioalves.cursomc.pagseguro.components;
 
 import java.util.Date;
 import java.util.List;

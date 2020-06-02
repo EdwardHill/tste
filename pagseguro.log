@@ -10270,3 +10270,519 @@
 30/05/2020 20:56:25 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
 30/05/2020 20:56:25 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
 30/05/2020 20:56:25 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com boleto finalizado
+31/05/2020 11:55:59 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 11:55:59 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 11:55:59 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 11:55:59 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 11:55:59 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 11:55:59 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 11:55:59 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 11:55:59 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 12:46:11 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 12:46:11 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:46:11 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:46:11 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 12:46:11 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 12:46:11 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:46:11 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:46:11 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 12:50:06 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 12:50:06 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:50:06 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:50:06 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 12:50:06 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 12:50:06 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:50:06 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:50:06 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:50:40 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: ab90cb88-3a0d-4a78-b342-efd311871b5f
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=ab90cb88-3a0d-4a78-b342-efd311871b5f]
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 12:52:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 12:52:12 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 12:52:12 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 12:52:30 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com boleto
+31/05/2020 12:52:30 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+31/05/2020 12:52:30 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+31/05/2020 12:52:30 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, shippingAddressState=PE, extraAmount=0.00, shippingType=3, senderCPF=18974411008, reference=Congreco Online, senderName=Carlos Eduardo Andrade Lima, senderHash=e8432fa0f924b472a9cc9b80d8ef77a74b2f613a2a6d83a2b0da774063f8f05c, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=55, currency=BRL, senderAreaCode=81, shippingAddressStreet=Av Joao Lima, shippingAddressCity=Cachoeirinha, itemQuantity1=1, itemWeight1=0, shippingCost=0.00, paymentMode=default, shippingAddressCountry=BRA, senderPhone=915109807, shippingAddressDistrict=Centro, itemDescription1=Webnário Amazon, paymentMethod=boleto, itemAmount1=38.70, shippingAddressPostalCode=55380000}}
+31/05/2020 12:52:30 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: e35e8f22-c72b-42b9-913e-2ae1e39fd6ec
+31/05/2020 12:52:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=e35e8f22-c72b-42b9-913e-2ae1e39fd6ec]
+31/05/2020 12:52:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 12:52:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 12:52:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 12:52:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 12:52:35 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-05-31T12:52:30.000-03:00</date><code>D83E426F-A790-4281-935F-EF13E4F2A663</code><reference>Congreco Online</reference><type>1</type><status>1</status><lastEventDate>2020-05-31T12:52:33.000-03:00</lastEventDate><paymentMethod><type>2</type><code>202</code></paymentMethod><paymentLink>https://sandbox.pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=24a3b98a2bbc3fb49b4770a3fbea90221784db1e016fdb54350211ce617e8e4b75f067ac0d7e05e9</paymentLink><grossAmount>38.70</grossAmount><discountAmount>0.00</discountAmount><feeAmount>2.33</feeAmount><netAmount>36.37</netAmount><extraAmount>0.00</extraAmount><installmentCount>1</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>38.70</amount></item></items><sender><name>Carlos Eduardo Andrade Lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Av Joao Lima</street><number>55</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping></transaction>', status=200}
+31/05/2020 12:52:35 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+31/05/2020 12:52:36 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+31/05/2020 12:52:36 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com boleto finalizado
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 75fc15c0-848f-48c5-9b5e-738fdf6a4a2d
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=75fc15c0-848f-48c5-9b5e-738fdf6a4a2d]
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 12:52:44 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 12:52:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 12:52:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 12:56:22 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com debito online
+31/05/2020 12:56:22 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+31/05/2020 12:56:22 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+31/05/2020 12:56:22 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, shippingAddressState=PE, extraAmount=0.00, shippingType=3, bankName=bradesco, senderCPF=18974411008, reference=Congreco Online, senderName=Carlos Eduardo Andrade Lima, senderHash=07aee7cd87579438ec3ebb78f62ee73064950c097a8b7dac3716645b65e9573b, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=55, currency=BRL, senderAreaCode=81, shippingAddressStreet=Av Joao Lima, shippingAddressCity=Cachoeirinha, itemQuantity1=1, itemWeight1=0, shippingCost=0.00, paymentMode=default, shippingAddressCountry=BRA, senderPhone=915109807, shippingAddressDistrict=Centro, itemDescription1=Webnário Amazon, paymentMethod=eft, itemAmount1=38.70, shippingAddressPostalCode=55380000}}
+31/05/2020 12:56:22 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 81b7f919-a230-408f-8bf9-b0d79da7669e
+31/05/2020 12:56:22 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=81b7f919-a230-408f-8bf9-b0d79da7669e]
+31/05/2020 12:56:22 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 12:56:22 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 12:56:26 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 12:56:26 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 12:56:26 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-05-31T12:56:22.000-03:00</date><code>3781A4A3-89AF-40FA-B1BF-C49E86368EF0</code><reference>Congreco Online</reference><recoveryCode>7df5a68dd88c50bb96b09f8de9adafce33cec17b4b36efcc</recoveryCode><type>1</type><status>1</status><lastEventDate>2020-05-31T12:56:24.000-03:00</lastEventDate><paymentMethod><type>3</type><code>301</code></paymentMethod><paymentLink>https://sandbox.pagseguro.uol.com.br/checkout/payment/eft/print.jhtml?c=9604af29b9120faaf3698dff6a46a60e72725fbe8fc21b755af1c7b79a259a5fc68a4a8bd69beb80</paymentLink><grossAmount>38.70</grossAmount><discountAmount>0.00</discountAmount><feeAmount>2.33</feeAmount><netAmount>36.37</netAmount><extraAmount>0.00</extraAmount><installmentCount>1</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>38.70</amount></item></items><sender><name>Carlos Eduardo Andrade Lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Av Joao Lima</street><number>55</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping></transaction>', status=200}
+31/05/2020 12:56:26 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+31/05/2020 12:56:26 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+31/05/2020 12:56:26 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com debito online finalizado
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: f1699f34-10fa-45ef-a78e-361838c3a919
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=f1699f34-10fa-45ef-a78e-361838c3a919]
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 12:57:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 12:57:02 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 12:57:02 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 12:57:52 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com cartao de credito
+31/05/2020 12:57:52 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+31/05/2020 12:57:52 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+31/05/2020 12:57:52 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, creditCardHolderCPF=09651294469, installmentQuantity=3, shippingAddressState=PE, extraAmount=0.00, creditCardHolderAreaCode=11, billingAddressNumber=55, shippingType=3, senderCPF=18974411008, reference=Congreco Online, senderName=Carlos Eduardo Andrade Lima, creditCardToken=c6cd252c7fc64ac688908a155302dd3a, creditCardHolderBirthDate=28/03/1990, senderHash=2645959db134fb8eab377850145cb6c61e969ec4105bdcdde88165319103efcc, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=55, currency=BRL, senderAreaCode=81, billingAddressPostalCode=55380000, shippingAddressStreet=Av Joao Lima, installmentValue=12.90, shippingAddressCity=Cachoeirinha, itemQuantity1=1, billingAddressDistrict=Centro, shippingCost=0.00, creditCardHolderPhone=982938129, billingAddressCity=Cachoeirinha, paymentMode=default, creditCardHolderName=carlos Eduardo andrade lima, noInterestInstallmentQuantity=3, shippingAddressCountry=BRA, senderPhone=915109807, billingAddressState=PE, shippingAddressDistrict=Centro, billingAddressComplement=Casa, itemDescription1=Webnário Amazon, billingAddressStreet=Av Joao Lima, paymentMethod=creditCard, itemAmount1=38.70, shippingAddressPostalCode=55380000, billingAddressCountry=BRA}}
+31/05/2020 12:57:52 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: d87363be-147b-4276-b38d-9a31b58f7e77
+31/05/2020 12:57:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=d87363be-147b-4276-b38d-9a31b58f7e77]
+31/05/2020 12:57:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 12:57:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 12:57:56 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 12:57:56 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 12:57:56 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-05-31T12:57:52.000-03:00</date><code>D4BA227D-83F9-47DF-A6F5-4C9351D444C7</code><reference>Congreco Online</reference><type>1</type><status>1</status><lastEventDate>2020-05-31T12:57:52.000-03:00</lastEventDate><paymentMethod><type>1</type><code>101</code></paymentMethod><grossAmount>38.70</grossAmount><discountAmount>0.00</discountAmount><feeAmount>4.18</feeAmount><netAmount>34.52</netAmount><extraAmount>0.00</extraAmount><installmentCount>3</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>38.70</amount></item></items><sender><name>Carlos Eduardo Andrade Lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Av Joao Lima</street><number>55</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping><gatewaySystem><type>cielo</type><rawCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><rawMessage xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><normalizedCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><normalizedMessage xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><authorizationCode>0</authorizationCode><nsu>0</nsu><tid>0</tid><establishmentCode>1056784170</establishmentCode><acquirerName>CIELO</acquirerName></gatewaySystem></transaction>', status=200}
+31/05/2020 12:57:56 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+31/05/2020 12:57:56 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+31/05/2020 12:57:56 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com cartao de credito finalizado
+31/05/2020 14:34:00 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:34:00 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:34:00 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:34:00 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:34:00 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:34:00 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:34:00 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:34:00 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:34:01 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:35:01 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:35:02 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:35:02 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:35:02 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:35:02 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:35:02 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 8788ea3f-df5e-4021-8928-5053fc42e74c
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=8788ea3f-df5e-4021-8928-5053fc42e74c]
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 14:35:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 14:35:19 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 14:35:19 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 14:35:31 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com debito online
+31/05/2020 14:35:31 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+31/05/2020 14:35:31 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+31/05/2020 14:35:31 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, shippingAddressState=PE, extraAmount=0.00, shippingType=3, bankName=bradesco, senderCPF=18974411008, reference=Congreco Online, senderName=Carlos Eduardo Andrade Lima, senderHash=130f43516f0a465c5f9432d4e01f15a06839934182f98dbd00c6d11a5e1cc718, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=55, currency=BRL, senderAreaCode=81, shippingAddressStreet=Av Joao Lima, shippingAddressCity=Cachoeirinha, itemQuantity1=1, itemWeight1=0, shippingCost=0.00, paymentMode=default, shippingAddressCountry=BRA, senderPhone=915109807, shippingAddressDistrict=Centro, itemDescription1=Webnário Amazon, paymentMethod=eft, itemAmount1=38.70, shippingAddressPostalCode=55380000}}
+31/05/2020 14:35:31 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: f6a1ab03-aace-4c41-92f7-822330f6256e
+31/05/2020 14:35:31 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=f6a1ab03-aace-4c41-92f7-822330f6256e]
+31/05/2020 14:35:31 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 14:35:31 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 14:35:34 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 14:35:34 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 14:35:34 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-05-31T14:35:30.000-03:00</date><code>18B6DA15-441A-4DB7-BAB7-11C5E644DF46</code><reference>Congreco Online</reference><recoveryCode>7df5a68dd88c50bb6eec3a549cb3d1f63146e3542505cb80</recoveryCode><type>1</type><status>1</status><lastEventDate>2020-05-31T14:35:31.000-03:00</lastEventDate><paymentMethod><type>3</type><code>301</code></paymentMethod><paymentLink>https://sandbox.pagseguro.uol.com.br/checkout/payment/eft/print.jhtml?c=e7404d38eefd48174e6590c435cdb6c4c630908f78d5c235f4ff7cad0bb268c35d26d18749f0d297</paymentLink><grossAmount>38.70</grossAmount><discountAmount>0.00</discountAmount><feeAmount>2.33</feeAmount><netAmount>36.37</netAmount><extraAmount>0.00</extraAmount><installmentCount>1</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>38.70</amount></item></items><sender><name>Carlos Eduardo Andrade Lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Av Joao Lima</street><number>55</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping></transaction>', status=200}
+31/05/2020 14:35:34 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+31/05/2020 14:35:34 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+31/05/2020 14:35:34 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com debito online finalizado
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 4d0b7400-6d77-45c9-96e5-6dbe43e052d2
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=4d0b7400-6d77-45c9-96e5-6dbe43e052d2]
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 14:36:12 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 14:36:13 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 14:36:13 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 14:36:24 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com boleto
+31/05/2020 14:36:24 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+31/05/2020 14:36:24 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+31/05/2020 14:36:24 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, shippingAddressState=PE, extraAmount=0.00, shippingType=3, senderCPF=18974411008, reference=Congreco Online, senderName=Carlos Eduardo Andrade Lima, senderHash=45dc099551e8a077e68b4b4df405613c3d52597397cbaf34275bf625f8489823, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=55, currency=BRL, senderAreaCode=81, shippingAddressStreet=Av Joao Lima, shippingAddressCity=Cachoeirinha, itemQuantity1=1, itemWeight1=0, shippingCost=0.00, paymentMode=default, shippingAddressCountry=BRA, senderPhone=915109807, shippingAddressDistrict=Centro, itemDescription1=Webnário Amazon, paymentMethod=boleto, itemAmount1=38.70, shippingAddressPostalCode=55380000}}
+31/05/2020 14:36:24 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: c0b06419-75cc-4895-a8a1-0e54dda8cc1f
+31/05/2020 14:36:24 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=c0b06419-75cc-4895-a8a1-0e54dda8cc1f]
+31/05/2020 14:36:24 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 14:36:24 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 14:36:28 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 14:36:28 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 14:36:28 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-05-31T14:36:23.000-03:00</date><code>A05F99FF-F7CC-40A3-B5E8-0A032525CBF5</code><reference>Congreco Online</reference><type>1</type><status>1</status><lastEventDate>2020-05-31T14:36:25.000-03:00</lastEventDate><paymentMethod><type>2</type><code>202</code></paymentMethod><paymentLink>https://sandbox.pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=82653b64dcd41df5c99317aca1433c5077be0bb393150d1f453b1f23715fb5ae280cf3eeaf15f3bb</paymentLink><grossAmount>38.70</grossAmount><discountAmount>0.00</discountAmount><feeAmount>2.33</feeAmount><netAmount>36.37</netAmount><extraAmount>0.00</extraAmount><installmentCount>1</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>38.70</amount></item></items><sender><name>Carlos Eduardo Andrade Lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Av Joao Lima</street><number>55</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping></transaction>', status=200}
+31/05/2020 14:36:28 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+31/05/2020 14:36:29 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+31/05/2020 14:36:29 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com boleto finalizado
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: bf1c82ce-f914-42fa-af1f-0ef7827bc4ce
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=bf1c82ce-f914-42fa-af1f-0ef7827bc4ce]
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 14:36:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 14:36:59 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 14:36:59 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 14:37:23 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com cartao de credito
+31/05/2020 14:37:23 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+31/05/2020 14:37:23 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+31/05/2020 14:37:23 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, creditCardHolderCPF=09651294469, installmentQuantity=7, shippingAddressState=PE, extraAmount=0.00, creditCardHolderAreaCode=11, billingAddressNumber=55, shippingType=3, senderCPF=18974411008, reference=Congreco Online, senderName=Carlos Eduardo Andrade Lima, creditCardToken=1c431b8fb9d94c1db0085c3f31065fdc, creditCardHolderBirthDate=28/03/1990, senderHash=7d21c0cc20d4508149861711ff1b86b3f3da55ba915404b23aee55a3b8dc797b, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=55, currency=BRL, senderAreaCode=81, billingAddressPostalCode=55380000, shippingAddressStreet=Av Joao Lima, installmentValue=5.95, shippingAddressCity=Cachoeirinha, itemQuantity1=1, billingAddressDistrict=Centro, shippingCost=0.00, creditCardHolderPhone=982938129, billingAddressCity=Cachoeirinha, paymentMode=default, creditCardHolderName=carlos Eduardo andrade lima, noInterestInstallmentQuantity=3, shippingAddressCountry=BRA, senderPhone=915109807, billingAddressState=PE, shippingAddressDistrict=Centro, billingAddressComplement=Casa, itemDescription1=Webnário Amazon, billingAddressStreet=Av Joao Lima, paymentMethod=creditCard, itemAmount1=38.70, shippingAddressPostalCode=55380000, billingAddressCountry=BRA}}
+31/05/2020 14:37:23 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 9f173258-d479-4a91-9165-3842c78ba8c4
+31/05/2020 14:37:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=9f173258-d479-4a91-9165-3842c78ba8c4]
+31/05/2020 14:37:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 14:37:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 14:37:27 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 14:37:27 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 14:37:27 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-05-31T14:37:22.000-03:00</date><code>730BA59D-7A4C-44B7-B3C1-18B671FEB27B</code><reference>Congreco Online</reference><type>1</type><status>1</status><lastEventDate>2020-05-31T14:37:22.000-03:00</lastEventDate><paymentMethod><type>1</type><code>101</code></paymentMethod><grossAmount>38.70</grossAmount><discountAmount>0.00</discountAmount><feeAmount>2.97</feeAmount><netAmount>35.73</netAmount><extraAmount>0.00</extraAmount><installmentCount>7</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>38.70</amount></item></items><sender><name>Carlos Eduardo Andrade Lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Av Joao Lima</street><number>55</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping><gatewaySystem><type>cielo</type><rawCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><rawMessage xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><normalizedCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><normalizedMessage xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><authorizationCode>0</authorizationCode><nsu>0</nsu><tid>0</tid><establishmentCode>1056784170</establishmentCode><acquirerName>CIELO</acquirerName></gatewaySystem></transaction>', status=200}
+31/05/2020 14:37:27 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+31/05/2020 14:37:27 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+31/05/2020 14:37:27 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com cartao de credito finalizado
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:42:22 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: b6ab2572-427d-423c-a8b2-8ea9fce488f1
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=b6ab2572-427d-423c-a8b2-8ea9fce488f1]
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 14:42:34 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 14:42:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 14:42:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 14:43:35 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com cartao de credito
+31/05/2020 14:43:35 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+31/05/2020 14:43:35 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+31/05/2020 14:43:35 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, creditCardHolderCPF=09651294469, installmentQuantity=4, shippingAddressState=PE, extraAmount=0.00, creditCardHolderAreaCode=11, billingAddressNumber=55, shippingType=3, senderCPF=18974411008, reference=Congreco Online, senderName=Carlos Eduardo Andrade Lima, creditCardToken=9c9b39ae763f494f853d7a8880e55a59, creditCardHolderBirthDate=28/03/1990, senderHash=b78d5e3325c1d9432dfa272ad0f41f8c8bde88831270962a6eb175f5b5c74d79, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=55, currency=BRL, senderAreaCode=81, billingAddressPostalCode=55380000, shippingAddressStreet=Av Joao Lima, installmentValue=9.97, shippingAddressCity=Cachoeirinha, itemQuantity1=1, billingAddressDistrict=Centro, shippingCost=0.00, creditCardHolderPhone=982938129, billingAddressCity=Cachoeirinha, paymentMode=default, creditCardHolderName=carlos Eduardo andrade lima, noInterestInstallmentQuantity=3, shippingAddressCountry=BRA, senderPhone=915109807, billingAddressState=PE, shippingAddressDistrict=Centro, billingAddressComplement=Casa, itemDescription1=Webnário Amazon, billingAddressStreet=Av Joao Lima, paymentMethod=creditCard, itemAmount1=38.70, shippingAddressPostalCode=55380000, billingAddressCountry=BRA}}
+31/05/2020 14:43:35 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 70fb1aa5-3ae4-4d20-bbab-4741213f0904
+31/05/2020 14:43:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=70fb1aa5-3ae4-4d20-bbab-4741213f0904]
+31/05/2020 14:43:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 14:43:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 14:43:38 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 14:43:38 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 14:43:38 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-05-31T14:43:34.000-03:00</date><code>700372EF-FF3E-4617-B609-CFF400CE26F3</code><reference>Congreco Online</reference><type>1</type><status>1</status><lastEventDate>2020-05-31T14:43:34.000-03:00</lastEventDate><paymentMethod><type>1</type><code>101</code></paymentMethod><grossAmount>38.70</grossAmount><discountAmount>0.00</discountAmount><feeAmount>3.46</feeAmount><netAmount>35.24</netAmount><extraAmount>0.00</extraAmount><installmentCount>4</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>38.70</amount></item></items><sender><name>Carlos Eduardo Andrade Lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Av Joao Lima</street><number>55</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping><gatewaySystem><type>cielo</type><rawCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><rawMessage xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><normalizedCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><normalizedMessage xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><authorizationCode>0</authorizationCode><nsu>0</nsu><tid>0</tid><establishmentCode>1056784170</establishmentCode><acquirerName>CIELO</acquirerName></gatewaySystem></transaction>', status=200}
+31/05/2020 14:43:38 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+31/05/2020 14:43:39 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+31/05/2020 14:43:39 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com cartao de credito finalizado
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: cbb5cb6c-ed35-4f4e-91f1-5f0cec4a84a4
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=cbb5cb6c-ed35-4f4e-91f1-5f0cec4a84a4]
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 15:15:34 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 15:15:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 15:15:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 15:17:09 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com boleto
+31/05/2020 15:17:09 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+31/05/2020 15:17:09 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+31/05/2020 15:17:09 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, shippingAddressState=PE, extraAmount=0.00, shippingType=3, senderCPF=18974411008, reference=Congreco Online, senderName=Genecy Carlos bezerra de lima, senderHash=5104288eb58119922e03d83da991d0eb4ce7592eda103ecf96c7c1c8e62dec99, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=15, currency=BRL, senderAreaCode=81, shippingAddressStreet=Rua Rio una, shippingAddressCity=Cachoeirinha, itemQuantity1=1, itemWeight1=0, shippingCost=0.00, paymentMode=default, shippingAddressCountry=BRA, senderPhone=915109807, shippingAddressDistrict=Centro, itemDescription1=Webnário Amazon, paymentMethod=boleto, itemAmount1=38.70, shippingAddressPostalCode=55380000}}
+31/05/2020 15:17:09 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: cf4107de-3c2d-4925-9a2d-5929f6ef7fe6
+31/05/2020 15:17:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=cf4107de-3c2d-4925-9a2d-5929f6ef7fe6]
+31/05/2020 15:17:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 15:17:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 15:17:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 15:17:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 15:17:16 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-05-31T15:17:11.000-03:00</date><code>79924A4D-5124-4EBA-BED8-2F919566A813</code><reference>Congreco Online</reference><type>1</type><status>1</status><lastEventDate>2020-05-31T15:17:14.000-03:00</lastEventDate><paymentMethod><type>2</type><code>202</code></paymentMethod><paymentLink>https://sandbox.pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=970a9db991b75d714b8953e3c3b0c44521bbb8cbb76088f1b2c96874e186b0e26c11d7cfb9d22cab</paymentLink><grossAmount>38.70</grossAmount><discountAmount>0.00</discountAmount><feeAmount>2.33</feeAmount><netAmount>36.37</netAmount><extraAmount>0.00</extraAmount><installmentCount>1</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>38.70</amount></item></items><sender><name>Genecy Carlos bezerra de lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Rua Rio una</street><number>15</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping></transaction>', status=200}
+31/05/2020 15:17:16 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+31/05/2020 15:17:17 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+31/05/2020 15:17:17 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com boleto finalizado
+31/05/2020 15:19:37 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 15:19:37 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 15:19:37 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 15:19:37 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 15:19:37 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 15:19:38 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 15:19:38 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 15:19:38 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 15:19:38 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: cfa9d404-7075-4a4b-af0f-944649689922
+31/05/2020 15:19:38 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=cfa9d404-7075-4a4b-af0f-944649689922]
+31/05/2020 15:19:38 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 15:19:38 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 15:19:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 15:19:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 15:24:01 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com cartao de credito
+31/05/2020 15:24:01 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+31/05/2020 15:24:01 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+31/05/2020 15:24:01 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, creditCardHolderCPF=09651294469, installmentQuantity=3, shippingAddressState=PE, extraAmount=0.00, creditCardHolderAreaCode=11, billingAddressNumber=55, shippingType=3, senderCPF=18974411008, reference=Congreco Online, senderName=Carlos Eduardo Andrade Lima, creditCardToken=624de5edeb084a368e6f42aaa44f5942, creditCardHolderBirthDate=28/03/1990, senderHash=7fd7d455ca03344c838bf84bbfaba6d3bc39fdfbb2276d813b226e5743697d58, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=55, currency=BRL, senderAreaCode=81, billingAddressPostalCode=55380000, shippingAddressStreet=Av Joao Lima, installmentValue=12.90, shippingAddressCity=Cachoeirinha, itemQuantity1=1, billingAddressDistrict=Centro, shippingCost=0.00, creditCardHolderPhone=982938129, billingAddressCity=Cachoeirinha, paymentMode=default, creditCardHolderName=Genecy carlos Bezerra de lima, noInterestInstallmentQuantity=3, shippingAddressCountry=BRA, senderPhone=915109807, billingAddressState=PE, shippingAddressDistrict=Centro, billingAddressComplement=Casa, itemDescription1=Webnário Amazon, billingAddressStreet=Av Joao Lima, paymentMethod=creditCard, itemAmount1=38.70, shippingAddressPostalCode=55380000, billingAddressCountry=BRA}}
+31/05/2020 15:24:01 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 15817bca-047b-416c-bf58-6469b16c8c08
+31/05/2020 15:24:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=15817bca-047b-416c-bf58-6469b16c8c08]
+31/05/2020 15:24:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 15:24:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 15:24:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 15:24:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 15:24:09 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-05-31T15:24:05.000-03:00</date><code>F6EE2EB3-5469-4F3F-BAB9-24EA7BF81DF5</code><reference>Congreco Online</reference><type>1</type><status>1</status><lastEventDate>2020-05-31T15:24:05.000-03:00</lastEventDate><paymentMethod><type>1</type><code>101</code></paymentMethod><grossAmount>38.70</grossAmount><discountAmount>0.00</discountAmount><feeAmount>4.18</feeAmount><netAmount>34.52</netAmount><extraAmount>0.00</extraAmount><installmentCount>3</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>38.70</amount></item></items><sender><name>Carlos Eduardo Andrade Lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Av Joao Lima</street><number>55</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping><gatewaySystem><type>cielo</type><rawCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><rawMessage xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><normalizedCode xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><normalizedMessage xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/><authorizationCode>0</authorizationCode><nsu>0</nsu><tid>0</tid><establishmentCode>1056784170</establishmentCode><acquirerName>CIELO</acquirerName></gatewaySystem></transaction>', status=200}
+31/05/2020 15:24:09 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+31/05/2020 15:24:10 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+31/05/2020 15:24:10 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com cartao de credito finalizado
+31/05/2020 15:26:08 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+31/05/2020 15:26:08 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 15:26:08 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+31/05/2020 15:26:08 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+31/05/2020 15:26:08 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+31/05/2020 15:26:08 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 15:26:08 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+31/05/2020 15:26:08 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+31/05/2020 15:26:08 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: be1b8f04-a27e-45a1-a57b-ec0de9aa981e
+31/05/2020 15:26:08 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=be1b8f04-a27e-45a1-a57b-ec0de9aa981e]
+31/05/2020 15:26:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 15:26:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 15:26:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 15:26:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 15:32:54 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com boleto
+31/05/2020 15:32:54 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+31/05/2020 15:32:54 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+31/05/2020 15:32:54 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, shippingAddressState=PE, extraAmount=0.00, shippingType=3, senderCPF=18974411008, reference=Congreco Online, senderName=Genecy Carlos Bezerra de lima, senderHash=eed902d8cc072dc651b5210f21bf2b5d7fe46027cfdf09c70fc0e1b8e401cbff, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=55, currency=BRL, senderAreaCode=81, shippingAddressStreet=Av Joao Lima, shippingAddressCity=Cachoeirinha, itemQuantity1=1, itemWeight1=0, shippingCost=0.00, paymentMode=default, shippingAddressCountry=BRA, senderPhone=915109807, shippingAddressDistrict=Centro, itemDescription1=Webnário Amazon, paymentMethod=boleto, itemAmount1=247.50, shippingAddressPostalCode=55380000}}
+31/05/2020 15:32:54 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 12ad7b33-bf80-4b75-a98a-2ea6b34fda1e
+31/05/2020 15:32:54 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=12ad7b33-bf80-4b75-a98a-2ea6b34fda1e]
+31/05/2020 15:32:54 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+31/05/2020 15:32:54 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+31/05/2020 15:33:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+31/05/2020 15:33:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+31/05/2020 15:33:01 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-05-31T15:32:57.000-03:00</date><code>170405D0-4402-489A-BA06-7C68E5F4E497</code><reference>Congreco Online</reference><type>1</type><status>1</status><lastEventDate>2020-05-31T15:32:59.000-03:00</lastEventDate><paymentMethod><type>2</type><code>202</code></paymentMethod><paymentLink>https://sandbox.pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=bde4d342d89bc3bc3f5ac5bd8fcce3735f0ab5adfce411f62eb0e7d28b9a3f5a96c1cfb72e1c5ff2</paymentLink><grossAmount>247.50</grossAmount><discountAmount>0.00</discountAmount><feeAmount>12.75</feeAmount><netAmount>234.75</netAmount><extraAmount>0.00</extraAmount><installmentCount>1</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>247.50</amount></item></items><sender><name>Genecy Carlos Bezerra de lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Av Joao Lima</street><number>55</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping></transaction>', status=200}
+31/05/2020 15:33:01 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+31/05/2020 15:33:02 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+31/05/2020 15:33:02 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com boleto finalizado
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:02:12 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:04:34 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:04:34 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:34 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:34 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:04:34 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:04:34 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:34 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:34 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:04:35 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.credential.DefaultCredentialProviderChain[INFO]: Iniciando leitura das credenciais
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.credential.JVMEnvVariableCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Lendo credenciais
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.credential.SystemPropCredentialProvider[INFO]: Credenciais lidas
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.environment.DefaultEnvironmentProviderChain[INFO]: Iniciando leitura das configuracoes de ambiente
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.environment.JVMEnvVariableEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Lendo configuracoes de ambiente
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.environment.SystemPropEnvironmentProvider[INFO]: Configuracoes de ambiente lidas
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: cf0078cc-6a1d-4907-aabe-e0117be09067
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=cf0078cc-6a1d-4907-aabe-e0117be09067]
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+02/06/2020 15:08:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+02/06/2020 15:08:19 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+02/06/2020 15:08:19 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+02/06/2020 15:08:38 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Iniciando pagamento direto com debito online
+02/06/2020 15:08:38 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Convertendo valores
+02/06/2020 15:08:38 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Valores convertidos
+02/06/2020 15:08:38 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Parametros: RequestMap{map={notificationURL=localhost:8080/notification, itemId1=1, shippingAddressState=PE, extraAmount=0.00, shippingType=3, bankName=bradesco, senderCPF=18974411008, reference=Congreco Online, senderName=Carlos Eduardo Andrade Lima, senderHash=f4094b24eb5decd6c2527d00eda5eacc6cf82ef58dd00e8278c27e6f04b8176e, shippingAddressComplement=Casa, senderEmail=edurock@sandbox.pagseguro.com.br, shippingAddressNumber=55, currency=BRL, senderAreaCode=81, shippingAddressStreet=Av Joao Lima, shippingAddressCity=Cachoeirinha, itemQuantity1=1, itemWeight1=0, shippingCost=0.00, paymentMode=default, shippingAddressCountry=BRA, senderPhone=915109807, shippingAddressDistrict=Centro, itemDescription1=Webnário Amazon, paymentMethod=eft, itemAmount1=247.50, shippingAddressPostalCode=55380000}}
+02/06/2020 15:08:38 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: df7c46c3-c44f-4f45-8254-ce4db2818846
+02/06/2020 15:08:38 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=edurock55@gmail.com&token=086022FE2D2547C0847246E4C8C3804B&correlationId=df7c46c3-c44f-4f45-8254-ce4db2818846]
+02/06/2020 15:08:38 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+02/06/2020 15:08:38 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+02/06/2020 15:08:41 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+02/06/2020 15:08:41 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+02/06/2020 15:08:41 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><transaction><date>2020-06-02T15:08:36.000-03:00</date><code>E665D883-0F0C-4FE1-8CD2-DA74837416B2</code><reference>Congreco Online</reference><recoveryCode>7df5a68dd88c50bb920a25ad7713f997a536113c584842a7</recoveryCode><type>1</type><status>1</status><lastEventDate>2020-06-02T15:08:38.000-03:00</lastEventDate><paymentMethod><type>3</type><code>301</code></paymentMethod><paymentLink>https://sandbox.pagseguro.uol.com.br/checkout/payment/eft/print.jhtml?c=6981615c85ab025dafccd41ba8381bd3e1b8beaf6940b4f7a3413a9205725e751a278266cd3a347e</paymentLink><grossAmount>247.50</grossAmount><discountAmount>0.00</discountAmount><feeAmount>12.75</feeAmount><netAmount>234.75</netAmount><extraAmount>0.00</extraAmount><installmentCount>1</installmentCount><itemCount>1</itemCount><items><item><id>1</id><description>Webnïrio Amazon</description><quantity>1</quantity><amount>247.50</amount></item></items><sender><name>Carlos Eduardo Andrade Lima</name><email>edurock@sandbox.pagseguro.com.br</email><phone><areaCode>81</areaCode><number>915109807</number></phone><documents><document><type>CPF</type><value>18974411008</value></document></documents></sender><shipping><address><street>Av Joao Lima</street><number>55</number><complement>Casa</complement><district>Centro</district><city>Cachoeirinha</city><state>PE</state><country>BRA</country><postalCode>55380000</postalCode></address><type>3</type><cost>0.00</cost></shipping></transaction>', status=200}
+02/06/2020 15:08:41 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseando XML de resposta
+02/06/2020 15:08:42 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Parseamento finalizado
+02/06/2020 15:08:42 PagSeguro.br.com.uol.pagseguro.api.transaction.register.DirectPaymentRegisterResource[INFO]: Pagamento direto com debito online finalizado

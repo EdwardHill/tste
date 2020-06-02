@@ -1,4 +1,4 @@
-package com.nelioalves.cursomc.resources;
+package com.nelioalves.cursomc.pagseguro;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -8,18 +8,15 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.uol.pagseguro.api.PagSeguro;
-import br.com.uol.pagseguro.api.PagSeguroEnv;
-import br.com.uol.pagseguro.api.credential.Credential;
-import br.com.uol.pagseguro.api.http.JSEHttpClient;
 import br.com.uol.pagseguro.api.session.CreatedSession;
-import br.com.uol.pagseguro.api.utils.logging.SimpleLoggerFactory;
+
 
 @RestController
 @RequestMapping(value = "/session")
-public class Session{
+public class SessionPagseguroResource{
 
 	@PostMapping(produces = { "application/json" }, consumes = MediaType.ALL_VALUE)
-	public ResponseEntity<String> getSession() {
+	public ResponseEntity<String> getSession()throws  Exception {
 		CreatedSession data = null;
 		try {
 
@@ -37,8 +34,7 @@ public class Session{
 						"{"
 						+"\"statusCode\"" +" :"+200+","+
 						"\"status\""+" :"+"\"success\""+","+
-						"\"content\""+" : "+"\""+data.getId()+"\""+   
+						"\"content\""+" : "+"\""+ data.getId()+"\""+   
 						"}");
 	}
-
 }
