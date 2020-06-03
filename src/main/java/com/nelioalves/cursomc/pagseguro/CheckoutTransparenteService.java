@@ -11,6 +11,7 @@ import com.nelioalves.cursomc.pagseguro.components.CheckoutGenerico;
 
 import br.com.uol.pagseguro.api.PagSeguro;
 import br.com.uol.pagseguro.api.common.domain.BankName;
+import br.com.uol.pagseguro.api.common.domain.BankName.Name;
 import br.com.uol.pagseguro.api.common.domain.ShippingType;
 import br.com.uol.pagseguro.api.common.domain.builder.AddressBuilder;
 import br.com.uol.pagseguro.api.common.domain.builder.BankBuilder;
@@ -140,7 +141,12 @@ public class CheckoutTransparenteService {
 	// Checkout transparente (pagamento direto) com boleto			
 	public TransactionDetail checkoutDebitoOnline(CheckoutGenerico dadosPayment) throws ParseException {			
 		try {
-				
+			 Name name = BankName.Name.fromName(dadosPayment.getBank().getName());
+			if(dadosPayment.getBank().getName() .equals("BANCO_BRASIL")) {				
+				  name =BankName.Name.BANCO_DO_BRASIL;
+			}
+			
+			 
 			checkout = pagSeguro.transactions()
 					.register(
 							new DirectPaymentRegistrationBuilder().withPaymentMode("default").withCurrency(Currency.BRL)
@@ -169,8 +175,13 @@ public class CheckoutTransparenteService {
 										.withDistrict(dadosPayment.getBilling().getDistrict())
 										.withNumber(dadosPayment.getBilling().getNumber())
 										.withStreet(dadosPayment.getBilling().getStreet())))									
-								).withOnlineDebit(new BankBuilder().withName(BankName.Name.fromName(dadosPayment.getBank().getName()))
+								).withOnlineDebit(new BankBuilder()
+										//.withName(BankName.Name.fromName(dadosPayment.getBank().getName()))
+										//.withName(BankName.Name.BANCO_DO_BRASIL)
+										.withName(name)
 							);
+			
+			
 			System.out.println(checkout.getPaymentLink());
 		} catch (PagSeguroBadRequestException e) {
 			e.printStackTrace();
